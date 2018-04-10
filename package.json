@@ -1,6 +1,6 @@
 {
   "name": "gap-node-front",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/gaptree/gap-node-front",
   "author": "zhanjh <zhanjh@126.com>",
