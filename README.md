@@ -8,7 +8,7 @@ yarn add gap-node-front
 
 ## Usage
 
-```
+```javascript
 const gapFront = require('gap-node-front');
 
 const setting = {
