@@ -6,9 +6,9 @@
   "author": "zhanjh <zhanjh@126.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
     "chokidar": "^2.0.3",
     "express": "^4.16.3",
+    "express-formidable": "^1.0.0",
     "gap-node-mock": "^1.0.4",
     "gap-node-scss": "^2.0.5",
     "gap-node-webpack": "^1.0.5",
